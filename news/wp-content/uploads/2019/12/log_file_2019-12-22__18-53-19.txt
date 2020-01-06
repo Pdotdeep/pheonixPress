@@ -1,0 +1,77 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://gigawebsoft.com/news
+Data file = /home/notesqol/public_html/gigawebsoft.com/news/wp-content/uploads/2019/12/freenews.WordPress.2019-09-12.xml
+Widget file = /home/notesqol/public_html/gigawebsoft.com/news/wp-content/uploads/2019/12/demo.themespiral.com-freenews-widgets.wie
+Customizer file = /home/notesqol/public_html/gigawebsoft.com/news/wp-content/uploads/2019/12/freenews-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cropped-fabicon-tabicon.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cropped-fabicon-tabicon.jpg" (Media)
+[ERROR] Failed to import "cropped-fab-tabicon.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cropped-fabicon-tabicon.jpg" (Media)
+[ERROR] Failed to import "cropped-fab-tabicon.jpg" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+T-Spiral: Latest Posts - No Title - Imported
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Header Banner : 
+
+Image - No Title - Imported
+
+Advertise Area : 
+
+Image - No Title - Imported
+
+FreeNews Template Left Section : 
+
+Navigation Menu - Social Links - Imported
+T-Spiral: Latest Posts - No Title - Imported
+T-Spiral: Category Slide - No Title - Imported
+
+FreeNews Template Main Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+T-Spiral: Category Slide - No Title - Imported
+T-Spiral: Blog Category Posts - No Title - Imported
+
+FreeNews Template Right Section : 
+
+weather_atlas - No Title - Site does not support widget
+Image - No Title - Imported
+T-Spiral: Latest Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
